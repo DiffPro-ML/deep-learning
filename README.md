@@ -2,6 +2,8 @@
 
 This repository contains teaching / learning material for Deep Learning created in the context of the DiffPro-ML project. More specifically, it contains jupyter notebooks illustrating classification, object detection and segmentation workflows on three different free medical image datasets.
 
+DiffPro-ML is funded by the Federal Ministry of Education and Research under grant agreement No 01|S17075.
+
 ## Preparing the datasets
 
 ### MURA
