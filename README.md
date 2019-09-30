@@ -20,6 +20,16 @@ The MURA 1.1 dataset can be downloaded from [GitHub](https://stanfordmlgroup.git
 
 The ISIC 2018 dataset can be downloaded from [isic-archive.com](https://challenge2018.isic-archive.com/task1/) and used as is.
 
+## Citation
+
+> R. Brüngel, J. Rückert, C. M. Friedrich (2019)  
+> **DiffPro-ML: Unterstützung differenzierter, projektorientierter Lehre für maschinelles Lernen.**  
+> Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie. (GMDS)  
+> https://dx.doi.org/10.3205/19gmds122
+
+
 ## Contact
 
-If you have questions or need support please use the issue tracker.
+Some materials (like solutions to tasks) are not published here to allow re-use of these materials in the future. For access to these materials, please contact [Christop M. Friedrich](https://www.fh-dortmund.de/friedrich) directly.
+
+If you have other questions or need support please use the issue tracker.
