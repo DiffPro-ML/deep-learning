@@ -22,9 +22,9 @@ The ISIC 2018 dataset can be downloaded from [isic-archive.com](https://challeng
 
 ## Citation
 
-> R. Brüngel, J. Rückert, C. M. Friedrich (2019)  
-> **DiffPro-ML: Unterstützung differenzierter, projektorientierter Lehre für maschinelles Lernen.**  
-> Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie. (GMDS)  
+> R. Brüngel, J. Rückert, C. M. Friedrich (2019)<br />
+> **DiffPro-ML: Unterstützung differenzierter, projektorientierter Lehre für maschinelles Lernen.**<br />
+> 64. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS). Dortmund, 08.-11.09.2019. Düsseldorf: German Medical Science GMS Publishing House<br />
 > https://dx.doi.org/10.3205/19gmds122
 
 
