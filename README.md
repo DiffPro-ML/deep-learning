@@ -2,6 +2,8 @@
 
 This repository contains teaching / learning material for Deep Learning created in the context of the DiffPro-ML project. More specifically, it contains jupyter notebooks illustrating classification, object detection and segmentation workflows on three different free medical image datasets.
 
+**Note:** This repository uses [Git LFS](https://git-lfs.github.com/) for PDF and other binary files, if you want to clone the repository make sure to install Git LFS first.
+
 DiffPro-ML is funded by the Federal Ministry of Education and Research under grant agreement No 01|S17075.
 
 ## Preparing the datasets
