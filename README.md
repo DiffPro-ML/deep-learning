@@ -32,6 +32,6 @@ The ISIC 2018 dataset can be downloaded from [isic-archive.com](https://challeng
 
 ## Contact
 
-Some materials (like solutions to tasks) are not published here to allow re-use of these materials in the future. For access to these materials, please contact [Christop M. Friedrich](https://www.fh-dortmund.de/friedrich) directly.
+Some materials (like solutions to tasks) are not published here to allow re-use of these materials in the future. For access to these materials, please contact [Christoph M. Friedrich](https://www.fh-dortmund.de/friedrich) directly.
 
 If you have other questions or need support please use the issue tracker.
