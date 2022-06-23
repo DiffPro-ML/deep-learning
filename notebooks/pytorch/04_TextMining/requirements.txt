@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scipy
+scikit-learn
+fasttext-wheel
+gensim
+transformers
