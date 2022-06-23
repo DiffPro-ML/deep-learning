@@ -1,6 +1,4 @@
 torch
-torchvision
-torchaudio
 numpy
 pandas
 scipy
